@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL14_FrameBuffer", "OpenGL14_FrameBuffer\OpenGL14_FrameBuffer.vcxproj", "{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Debug|x64.ActiveCfg = Debug|x64
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Debug|x64.Build.0 = Debug|x64
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Debug|x86.Build.0 = Debug|Win32
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Release|x64.ActiveCfg = Release|x64
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Release|x64.Build.0 = Release|x64
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Release|x86.ActiveCfg = Release|Win32
+		{6B0CCF7D-1EEA-408E-96CA-64BC6E6DB045}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AB63736-6669-4B57-BC55-979E5F13CA6F}
+	EndGlobalSection
+EndGlobal
